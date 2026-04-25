@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+  <rect width="100%" height="100%" fill="#ffffff"></rect>
+  <text x="450" y="36" text-anchor="middle" font-size="24" font-family="Arial, sans-serif" font-weight="700">Median Price by Room Type</text>
+  <line x1="90" y1="440" x2="860" y2="440" stroke="#222"></line>
+  <line x1="90" y1="70" x2="90" y2="440" stroke="#222"></line>
+  <text x="22" y="255" transform="rotate(-90, 22, 255)" text-anchor="middle" font-size="15" font-family="Arial, sans-serif">Median price ($)</text>
+  <g font-family="Arial, sans-serif">
+  <rect x="99" y="70" width="174.5" height="370" fill="#d95f02" rx="3"></rect>
+  <text x="186.25" y="62" text-anchor="middle" font-size="13">150</text>
+  <text transform="translate(186.25, 458) rotate(35)" text-anchor="start" font-size="13">Entire home/apt</text>
+
+  <rect x="291.5" y="267.33333333333337" width="174.5" height="172.66666666666666" fill="#d95f02" rx="3"></rect>
+  <text x="378.75" y="259.33333333333337" text-anchor="middle" font-size="13">70</text>
+  <text transform="translate(378.75, 458) rotate(35)" text-anchor="start" font-size="13">Private room</text>
+
+  <rect x="484" y="329" width="174.5" height="111" fill="#d95f02" rx="3"></rect>
+  <text x="571.25" y="321" text-anchor="middle" font-size="13">45</text>
+  <text transform="translate(571.25, 458) rotate(35)" text-anchor="start" font-size="13">Shared room</text>
+
+  <rect x="676.5" y="440" width="174.5" height="0" fill="#d95f02" rx="3"></rect>
+  <text x="763.75" y="432" text-anchor="middle" font-size="13">0</text>
+  <text transform="translate(763.75, 458) rotate(35)" text-anchor="start" font-size="13">Unknown</text>
+  </g>
+</svg>

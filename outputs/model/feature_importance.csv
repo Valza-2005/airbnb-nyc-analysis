@@ -1,0 +1,11 @@
+feature,importance
+room_type_Private room,0.36717079009525333
+reviews_per_month,0.13980069975111356
+availability_365,0.13454813622091752
+number_of_reviews,0.10110686393096933
+minimum_nights,0.07120216340103093
+neighbourhood_group_Manhattan,0.0633469266094308
+room_type_Shared room,0.06311809649140436
+calculated_host_listings_count,0.05036745159985943
+neighbourhood_group_Brooklyn,0.005943934118711497
+neighbourhood_group_Queens,0.002478190272700128

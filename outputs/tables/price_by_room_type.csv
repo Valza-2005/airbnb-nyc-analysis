@@ -1,0 +1,5 @@
+room_type,count,mean,median,min,max
+"Entire home/apt",22714.00,162.55,150.00,10.00,334.00
+"Private room",21871.00,79.06,70.00,10.00,333.00
+"Shared room",1131.00,59.27,45.00,10.00,320.00
+"Unknown",336.00,0.00,0.00,0.00,0.00

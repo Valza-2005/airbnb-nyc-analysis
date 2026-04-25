@@ -1,0 +1,6 @@
+neighbourhood_group,mean,median,min,max
+Staten Island,199.89,219.0,0,365
+Bronx,164.51,146.0,0,365
+Queens,143.05,95.0,0,365
+Manhattan,105.93,29.0,0,365
+Brooklyn,98.5,26.0,0,365

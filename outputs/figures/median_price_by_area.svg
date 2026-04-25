@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+  <rect width="100%" height="100%" fill="#ffffff"></rect>
+  <text x="450" y="36" text-anchor="middle" font-size="24" font-family="Arial, sans-serif" font-weight="700">Median Price by NYC Borough</text>
+  <line x1="90" y1="440" x2="860" y2="440" stroke="#222"></line>
+  <line x1="90" y1="70" x2="90" y2="440" stroke="#222"></line>
+  <text x="22" y="255" transform="rotate(-90, 22, 255)" text-anchor="middle" font-size="15" font-family="Arial, sans-serif">Median price ($)</text>
+  <g font-family="Arial, sans-serif">
+  <rect x="99" y="70" width="110.33333333333334" height="370" fill="#2f6f9f" rx="3"></rect>
+  <text x="154.16666666666669" y="62" text-anchor="middle" font-size="13">135</text>
+  <text transform="translate(154.16666666666669, 458) rotate(35)" text-anchor="start" font-size="13">Manhattan</text>
+
+  <rect x="227.33333333333334" y="193.33333333333334" width="110.33333333333334" height="246.66666666666666" fill="#2f6f9f" rx="3"></rect>
+  <text x="282.5" y="185.33333333333334" text-anchor="middle" font-size="13">90</text>
+  <text transform="translate(282.5, 458) rotate(35)" text-anchor="start" font-size="13">Brooklyn</text>
+
+  <rect x="355.6666666666667" y="234.44444444444443" width="110.33333333333334" height="205.55555555555557" fill="#2f6f9f" rx="3"></rect>
+  <text x="410.83333333333337" y="226.44444444444443" text-anchor="middle" font-size="13">75</text>
+  <text transform="translate(410.83333333333337, 458) rotate(35)" text-anchor="start" font-size="13">Staten Island</text>
+
+  <rect x="484" y="237.1851851851852" width="110.33333333333334" height="202.8148148148148" fill="#2f6f9f" rx="3"></rect>
+  <text x="539.1666666666666" y="229.1851851851852" text-anchor="middle" font-size="13">74</text>
+  <text transform="translate(539.1666666666666, 458) rotate(35)" text-anchor="start" font-size="13">Queens</text>
+
+  <rect x="612.3333333333334" y="261.85185185185185" width="110.33333333333334" height="178.14814814814815" fill="#2f6f9f" rx="3"></rect>
+  <text x="667.5" y="253.85185185185185" text-anchor="middle" font-size="13">65</text>
+  <text transform="translate(667.5, 458) rotate(35)" text-anchor="start" font-size="13">Bronx</text>
+
+  <rect x="740.6666666666667" y="440" width="110.33333333333334" height="0" fill="#2f6f9f" rx="3"></rect>
+  <text x="795.8333333333334" y="432" text-anchor="middle" font-size="13">0</text>
+  <text transform="translate(795.8333333333334, 458) rotate(35)" text-anchor="start" font-size="13">Unknown</text>
+  </g>
+</svg>
